@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-jadhav-610668228/)
-[!Gmail](https://img.shields.io/badge/prasadjadhav153%40gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadjadhav153@gmail.com)
+[[!Gmail](https://img.shields.io/badge/prasadjadhav153%40gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadjadhav153@gmail.com)
 
 
 
