@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 <a href="https://twitter.com/prasadjadhav154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajatgore3" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prasad-jadhav-610668228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat gore" height="30" width="40" /></a>
-<a href="mailto:prasadjadhav153@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" alt="rajat gore" height="50" width="40" /></a>
+<a href="mailto:prasadjadhav153@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" alt="rajat gore" height="45" width="40" /></a>
 </p>
 
 
