@@ -12,8 +12,8 @@
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<br/>
+![PHP](https://img.shields.io/badge/PHP-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishakha0411&theme=dark&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
