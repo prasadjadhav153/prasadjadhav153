@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-jadhav-610668228/)
-![Gmail](https://img.shields.io/badge/Gmail-prasadjadhav153.svg?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-prasadjadhav153@gmail.com.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
 # 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
