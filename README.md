@@ -3,12 +3,12 @@
 ## Prasad Jadhav👋<br>
 <br>
 
-🔭 Pursuing B.E. In Computer Engineering at Dr. DY Patil College of Engineering, Pune <br>⚡ Love to Code | Developer | Learning Enthusiast <br>🤝 I’m looking for help on Development.<br>🌱 I’m  currently learning Frontend Development.<br>💬 Apart from Web, Android, Design let's talk about Current Affairs:smiley:.<br>
+🔭 Pursuing B.E. In Computer Engineering at DY Patil College of Engineering, Pune <br>⚡ Love to Code | Developer | Learning Enthusiast <br>🤝 I’m looking for help on Development.<br>🌱 I’m  currently learning Frontend Development.<br>💬 Apart from Web, Design let's talk about Current Affairs:smiley:.<br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-jadhav-610668228/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Vishakh01081628) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-jadhav-610668228/)
 
 # 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
